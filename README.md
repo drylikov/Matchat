@@ -85,4 +85,3 @@ commands to make life more fun.
 ## Extending it
 
 In progress -- fork and add your own plugin
-
